@@ -672,7 +672,7 @@ We welcome contributors who care about privacy. QuantC's mission is community-dr
 
 > [!WARNING]
 > **Found a security vulnerability?** Do **NOT** open a public GitHub issue.
-> Email us privately at `security@quantc.io` — we respond within 48 hours.
+> Email us privately at `goglemaleyou@gmail.com` — we respond within 48 hours.
 > Responsible disclosure is always credited publicly.
 
 <br/>
